@@ -3,3 +3,5 @@ this is the ML Ops session 2
 
 
 this is my first respositary
+
+today i created the SSH key
